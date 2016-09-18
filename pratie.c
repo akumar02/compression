@@ -3,7 +3,7 @@
 
 int main() 
 {
-int count[256] = { 0 };    // temporary variable to hold the occurence of the character initially assinging the value 0
+int count[256] = { 0 }; 
 
   int k,c;
 
